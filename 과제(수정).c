@@ -16,5 +16,6 @@ int mysum(int *pvalue) {
 		isum += pvalue[i];
 	}
 	printf("다음 숫자들의 합은 %d 입니다", isum);
+}	
 
 
